@@ -5,3 +5,4 @@ exports.nbOccurences = function (list, searchElement) {
   list.forEach(element => { if (element === searchElement) { count++; } });
   return count;
 };
+
