@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """lass Square."""
 
-
 class Square:
     """square."""
 
