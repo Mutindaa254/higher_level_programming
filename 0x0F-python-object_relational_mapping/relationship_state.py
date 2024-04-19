@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """Definition of the State class with relationship to City"""
 
 from sqlalchemy.ext.declarative import declarative_base
