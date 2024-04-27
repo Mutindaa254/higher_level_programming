@@ -1,5 +1,4 @@
 #!/usr/bin/node
-
 function order (characters, idx) {
   if (idx >= characters.length) {
     return;
