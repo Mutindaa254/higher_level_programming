@@ -1,4 +1,5 @@
 -- -Script that lists all genres from hbtn_0d_tvshows_rate by their rating
+
 SELECT `tv_genres`.`name`, SUM(`tv_show_ratings`.`rate`) AS `rating`
 FROM `tv_genres`
 JOIN `tv_show_genres`
