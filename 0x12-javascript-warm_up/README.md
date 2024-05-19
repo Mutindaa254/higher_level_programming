@@ -1,2 +1,1 @@
-This project is about:
-1. JavaScript - Warm up
+This project is about: JavaScript - Warm up
