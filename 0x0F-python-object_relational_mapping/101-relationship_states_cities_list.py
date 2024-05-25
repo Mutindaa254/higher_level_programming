@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """lists all State objects, and corresponding City objects """
-
 if __name__ == "__main__":
 
     import sys
