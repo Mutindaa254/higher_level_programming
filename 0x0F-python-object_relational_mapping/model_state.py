@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """class definition"""
 
 from sqlalchemy.ext.declarative import declarative_base
