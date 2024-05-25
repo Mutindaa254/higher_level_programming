@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """lists all City objects from the database"""
-
 if __name__ == "__main__":
 
     import sys
