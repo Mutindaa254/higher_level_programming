@@ -1,5 +1,4 @@
 #include "lists.h"
-
 /**
  * insert_node - Inserts a number into a sorted list
  * @head: A pointer the head of the list
