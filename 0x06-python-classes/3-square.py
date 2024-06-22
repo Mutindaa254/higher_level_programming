@@ -2,7 +2,6 @@
 # 3-square.py
 """class Square."""
 
-
 class Square:
     """square."""
 
