@@ -2,7 +2,6 @@
 
 """class Square."""
 
-
 class Square:
     """square."""
 
