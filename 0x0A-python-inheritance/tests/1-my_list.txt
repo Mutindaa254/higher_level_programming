@@ -132,6 +132,7 @@ my_list is already sorted:
 [1, 2, 3, 4, 5]
 False
 
+
 Test with print_sorted() on empty list
 --------------------------------------
 
