@@ -1,5 +1,4 @@
 #include "lists.h"
-
 /**
  * check_cycle - function that finds a loop in a linked list
  * @list: pointer to the struct listint_t
