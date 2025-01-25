@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """Fetches data from given URL"""
 
-
 if __name__ == "__main__":
     import urllib.request
 
