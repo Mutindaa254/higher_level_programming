@@ -3,7 +3,6 @@
 1-write_file module
 """
 
-
 def write_file(filename="", text=""):
     """
         writes a string to a text file (UTF8)
