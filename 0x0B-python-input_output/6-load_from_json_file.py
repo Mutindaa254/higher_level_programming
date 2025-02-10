@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 """
 6-load from json file
 """
