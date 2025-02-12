@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 # 5-rectangle.py
 """Rectangle class."""
-
 class Rectangle:
     """Represent a rectangle."""
 
