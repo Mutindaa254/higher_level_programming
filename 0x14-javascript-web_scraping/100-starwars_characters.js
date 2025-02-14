@@ -1,7 +1,6 @@
 #!/usr/bin/node
 const request = require('request');
 const { argv } = require('process');
-
 const BaseUrl = 'https://swapi-api.hbtn.io/api/films/';
 function MakeRequest (url) {
   return new Promise(function (resolve, reject) {
