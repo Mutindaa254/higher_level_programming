@@ -1,5 +1,5 @@
 -----
-This project is about:
+# This project is about:
 1. Using the if, if ... else statements
 2. Using the while and for loops
 3. Using break and continues statements
