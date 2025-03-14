@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 101-add_attribute.py
-
 """function that adds attributes to object."""
 
 
