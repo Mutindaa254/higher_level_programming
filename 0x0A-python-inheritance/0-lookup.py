@@ -1,3 +1,4 @@
+
 #!/usr/bin/python3
 # 0-lookup.py
 """lookup function."""
