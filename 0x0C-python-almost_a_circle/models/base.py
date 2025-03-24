@@ -1,3 +1,4 @@
+
 #!/usr/bin/python3
 # base.py
 """Defines a base model class."""
